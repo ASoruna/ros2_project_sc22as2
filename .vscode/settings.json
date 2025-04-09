@@ -1,0 +1,21 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/uolstore/home/users/sc22as2/ros2_ws/install/ros2_project_sc22as2/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab5/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab3/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab2/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/uolstore/home/users/sc22as2/ros2_ws/install/ros2_project_sc22as2/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab5/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab3/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab2/lib/python3.10/site-packages",
+        "/uolstore/home/users/sc22as2/ros2_ws/install/lab1/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}
